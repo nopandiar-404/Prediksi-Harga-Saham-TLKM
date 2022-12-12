@@ -1,1 +1,2 @@
-# Prediksi-Harga-Saham-TLKM-
+# Prediksi-Harga-Saham-TLKM
+Pada permasalahan ini dilakukan penerapan kinerja model dan membandingkan evaluasi model sistem yang dibuat dalam memprediksi pergerakan saham TLKM, model yang digunakan yaitu: Long Short Term Memory (LSTM) dan Gated Recurrent Units (GRU). Sebagai tambahannya, menggunakan variable harga penutupan (Close) selama satu tahun terakhir yaitu di tahun 2021-2022. Selanjutnya model dilakukan training dan testing pada dataset yang digunakan, sebagai evaluasi model dihitung dengan metode MSE.
